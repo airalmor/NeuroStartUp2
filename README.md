@@ -9,6 +9,7 @@
 * Высокая точность поиска
 * Высокая скорость поиска
 * Низкая цена
+<<<<<<< HEAD
 
 #  Изменение
 
@@ -22,3 +23,5 @@ selector {
 font-family: "Awesome", Arial, sans-serif;
 color: red;
 }```
+=======
+>>>>>>> parent of ca84d5f (Изменения в README.md)
